@@ -1,7 +1,7 @@
 Ohm ॐ
 =====
 
-Object-hash mapping library for Redis.
+Object-hash mapping library for Redis (adding SQL).
 
 Description
 -----------
